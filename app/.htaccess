@@ -1,0 +1,2 @@
+# Proteção adicional para laboratórios com Apache e AllowOverride ativo.
+Require all denied
